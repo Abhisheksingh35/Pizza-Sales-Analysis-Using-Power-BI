@@ -36,6 +36,7 @@ The data shared contains the year 2015 order details, date and time of the order
 
  * Using the Power BI tool, I have imported the data from the different sources and create an appropriate data model. 
  * Cleaned, transformed and added new variables wherever necessary in order to get more insight and relationship among the data using **Power Query**.
+ * Connected tables in data model tab to setup schema and relationship among data.
  * Created a indepth report explaining trend of Revenue, Order, Pizza Popularity and Peek Hour for business to operate.
  * Additionally I have analyze and visualize the data and built report to capture the trends in sales, do a customer segmentation and carry out a detailed financial analysis reporting last year sales, order, peek hour etc. 
  * Finally 2 dashboard is setup which ensure the recommended analysis is captured as a part of the task to showcase changes among major KPI with time.
